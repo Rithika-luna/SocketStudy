@@ -65,7 +65,6 @@ c.close()
 
 ```
 ## Server
-```
 # Developed by : S .Rithika
 # Register Number : 2122250403444
 ```
