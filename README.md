@@ -80,9 +80,12 @@ s.send("acknowledgement recived from the server".encode())
 ```
 ## Output
 ```
+```
 
  <img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/7822d4fc-52d0-4e42-993b-52a549bfab76" />
 
+```
+```
 
 ## Use Cases of Socket Programming:
 Socket programming finds applications in various domains, including web development, file transfer protocols, online gaming, and real-time communication. It is the foundation for protocols like HTTP, FTP, and SMTP, which power the internet. Socket programming enables the development of both server and client applications, facilitating the exchange of information between devices in a networked environment.
